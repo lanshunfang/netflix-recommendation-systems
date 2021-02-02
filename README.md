@@ -10,3 +10,6 @@ The final project for advanced data science DS7390
 
 ## Collaborative filtering with user ratings
 * `SVD`(singular value decomposition) by `Surprise` with Cross Validation (RMSE)
+
+# Links
+## [Colab source](https://colab.research.google.com/drive/107LCoDyfGL02gs_Z84LlWsfh9cLG2oUx?usp=sharing)
