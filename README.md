@@ -1,4 +1,4 @@
-# netflix-recommendation-systems
+# Netflix recommendation systems
 The final project for advanced data science DS7390
 
 # Tools
