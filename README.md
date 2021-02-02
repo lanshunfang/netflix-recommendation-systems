@@ -5,7 +5,7 @@ The final project for advanced data science DS7390
 
 ## Content-based filtering over cold-start content
 
-* One-hot-coding over limited Pandas column
+* One-hot-coding over limited Pandas columns
 * TF-IDF with Linear Kernel for word frequency summarization over movie title, directors, actors, genres, descriptions columns for content-based filtering
 
 ## Collaborative filtering with user ratings
